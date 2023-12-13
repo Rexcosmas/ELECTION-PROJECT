@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin-top: 0;
+    box-sizing: border-box;
+}
+.loginPage{
+    background-image: linear-gradient(green,white,green);
+  width: 500px;
+  height: 530px;
+  margin:6% auto;
+
+}
+form{
+    text-rendering: optimizeSpeed;
+}
+.holder{
+/* background-color: white; */
+width: 400px;
+height: 470px;
+margin-left: 56px;
+margin-top: 5px;
+
+}
+.loginPage button{
+    background-color: blue;
+    margin-left: 50px;
+}
+.t{
+    border-radius: 10px;
+    width: 240px;
+    height: 30px;
+}
+.login-link ul  {
+    /* background-color: aqua; */
+    width: 40px;
+    position: relative;
+   left: 120px;
+   bottom: 19px;
+    list-style: none;
+
+}
+.link{
+    /* background-color: aquamarine; */
+    width: 120px;
+
+}
